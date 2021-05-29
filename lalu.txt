@@ -2,3 +2,4 @@ hello guys
 git commands are very important,
 hi 
 im updating code
+we are discussing the git commands
